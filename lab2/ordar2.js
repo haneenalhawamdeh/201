@@ -7,7 +7,7 @@ name = name.toLowerCase();
 
 if (name == 'yes')
 {
-    alert('you are clever');
+    alert('you are clever');   
 } else if (name == 'y'){
     alert('you are clever');
 } else if (name == 'no') {
